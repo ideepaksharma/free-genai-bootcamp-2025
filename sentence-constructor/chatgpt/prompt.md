@@ -84,4 +84,4 @@ Here is an example of user input and assitant output, pay attention to the score
 </example>
 
 ## Student Input
-I'm already looking forward for warm summer days, it's enough of cold weather
+Excuse me, I spill the coffee on the table
